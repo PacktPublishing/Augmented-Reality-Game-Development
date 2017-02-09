@@ -1,0 +1,16 @@
+5.4.0f3:2.3.0.0
+Android
+F:/UnityRW/Editor/Data/Managed/UnityEngine.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+F:/UnityRW/Editor/Data/Managed/UnityEditor.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+F:/UnityRW/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+F:/UnityRW/Editor/Data/Managed/UnityEditor.Graphs.dll
+F:/UnityRW/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+F:/UnityRW/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

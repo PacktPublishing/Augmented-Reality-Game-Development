@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 3623e72a86306b340aec32a0df626611
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bone01
+    100004: Bone01 1
+    100006: Bone02
+    100008: Bone02 1
+    100010: Bone03
+    100012: Bone03 1
+    100014: Bone04
+    100016: Bone04 1
+    100018: Bone05
+    100020: Bone05 1
+    100022: Bone06
+    100024: Bone06 1
+    100026: Bone07
+    100028: Bone07 1
+    100030: Bone08
+    100032: Bone08 1
+    100034: Bone_Calvaria
+    100036: Bone_Connect
+    100038: Bone_Ear-L
+    100040: Bone_Ear-R
+    100042: Bone_Eye-L
+    100044: Bone_Eye-R
+    100046: Bone_Eyebrows-L
+    100048: Bone_Eyebrows-L01
+    100050: Bone_Eyebrows-L02
+    100052: Bone_Eyebrows-R
+    100054: Bone_Eyebrows-R01
+    100056: Bone_Eyebrows-R02
+    100058: Bone_Eyelid-L-Down
+    100060: Bone_Eyelid-L-Up
+    100062: Bone_Eyelid-R-Down
+    100064: Bone_Eyelid-R-Up
+    100066: Bone_Facial
+    100068: Bone_facial-L01
+    100070: Bone_facial-L02
+    100072: Bone_facial-R01
+    100074: Bone_facial-R02
+    100076: Bone_Jaw01
+    100078: Bone_Jaw02
+    100080: Bone_Lip-Down
+    100082: Bone_Lip-Up
+    100084: Bone_Nose-F
+    100086: Bone_Nose-M
+    100088: Bone_Supramaxilla
+    100090: Bone_Tongue01
+    100092: Bone_Tongue02
+    100094: Bone_Tongue03
+    100096: Bone_Tongue04
+    100098: CP_01
+    100100: CP_02
+    100102: CP_03
+    100104: CP_04
+    100106: CP_05
+    100108: CP_06
+    100110: CP_07
+    100112: CP_08
+    100114: CP_09
+    100116: CP_10
+    100118: CP_11
+    100120: CP_12
+    100122: CP_13
+    100124: CP_14
+    100126: CP_15
+    100128: CP_16
+    100130: CP_17
+    100132: CP_18
+    100134: CP_19
+    100136: CP_20
+    100138: CP_21
+    100140: CP_22
+    100142: CP_23
+    100144: CP_24
+    100146: CP_25
+    100148: CP_26
+    100150: CP_27
+    100152: CP_28
+    100154: CP_29
+    100156: CP_30
+    100158: CP_31
+    100160: CP_32
+    100162: CP_33
+    100164: CP_34
+    100166: CP_35
+    100168: CP_36
+    100170: CP_37
+    100172: CP_38
+    100174: CP_39
+    100176: CP_40
+    100178: CP_41
+    100180: CP_42
+    100182: CP_43
+    100184: CP_44
+    100186: CP_45
+    100188: CP_46
+    100190: CP_47
+    100192: CP_48
+    100194: CP_49
+    100196: CP_50
+    100198: CP_51
+    100200: CP_52
+    100202: CP_53
+    100204: CP_54
+    100206: CP_55
+    100208: CP_56
+    100210: CP_57
+    100212: CP_58
+    100214: CP_59
+    100216: CP_60
+    100218: CP_61
+    100220: CP_62
+    100222: CP_63
+    100224: CP_64
+    100226: CP_65
+    100228: CP_66
+    100230: CP_67
+    100232: CP_68
+    100234: CP_69
+    100236: Dummy_R
+    100238: Dummy_R 1
+    100240: Eye_L
+    100242: Eye_R
+    100244: Eyeball
+    100246: Eyeball 1
+    100248: Eyelib_L
+    100250: Eyelib_R
+    100252: Eyelid
+    100254: Eyelid 1
+    100256: //RootNode
+    100258: Part_DownTeeth
+    100260: Part_Eyewinker
+    100262: Part_L_Eye
+    100264: Part_R_Eye
+    100266: Part_Tongue
+    100268: Part_UpperTeeth
+    100270: RL_Head
+    100272: RL_HeadNub
+    100274: RL_Hips
+    100276: RL_L_Abdominal
+    100278: RL_L_AbdominalNub
+    100280: RL_L_Breast
+    100282: RL_L_BreastNub
+    100284: RL_L_Calf
+    100286: RL_L_CalfTwist01
+    100288: RL_L_CalfTwist02
+    100290: RL_L_Clavicle
+    100292: RL_L_Elbow
+    100294: RL_L_Finger00
+    100296: RL_L_Finger01
+    100298: RL_L_Finger02
+    100300: RL_L_Finger0Nub
+    100302: RL_L_Finger10
+    100304: RL_L_Finger11
+    100306: RL_L_Finger12
+    100308: RL_L_Finger1Nub
+    100310: RL_L_Finger20
+    100312: RL_L_Finger21
+    100314: RL_L_Finger22
+    100316: RL_L_Finger2Nub
+    100318: RL_L_Finger30
+    100320: RL_L_Finger31
+    100322: RL_L_Finger32
+    100324: RL_L_Finger3Nub
+    100326: RL_L_Finger40
+    100328: RL_L_Finger41
+    100330: RL_L_Finger42
+    100332: RL_L_Finger4Nub
+    100334: RL_L_Foot
+    100336: RL_L_Foot01_Floor01
+    100338: RL_L_Foot01_Floor02
+    100340: RL_L_Foot01_Floor03
+    100342: RL_L_Foot01_Floor04
+    100344: RL_L_Foot01_Floor05
+    100346: RL_L_Foot01_Floor06
+    100348: RL_L_Forearm
+    100350: RL_L_ForearmTwist01
+    100352: RL_L_ForearmTwist02
+    100354: RL_L_Hand
+    100356: RL_L_Hand01_Floor01
+    100358: RL_L_Hand01_Floor02
+    100360: RL_L_Hand01_Floor03
+    100362: RL_L_Hand01_Floor04
+    100364: RL_L_Hand01_Floor05
+    100366: RL_L_Hand01_Floor06
+    100368: RL_L_Hand_Acc_Pivot
+    100370: RL_L_Hip0
+    100372: RL_L_Hip0Nub
+    100374: RL_L_Knee
+    100376: RL_L_Ribs
+    100378: RL_L_RibsNub
+    100380: RL_L_RibsTwist
+    100382: RL_L_Thigh
+    100384: RL_L_ThighTwist01
+    100386: RL_L_ThighTwist02
+    100388: RL_L_Toe
+    100390: RL_L_Toe0Nub
+    100392: RL_L_UpperArm
+    100394: RL_L_UpperArmTwist01
+    100396: RL_L_UpperArmTwist02
+    100398: RL_Neck
+    100400: RL_NeckTwist01
+    100402: RL_Pelvis
+    100404: RL_R_Abdominal
+    100406: RL_R_AbdominalNub
+    100408: RL_R_Breast
+    100410: RL_R_BreastNub
+    100412: RL_R_Calf
+    100414: RL_R_CalfTwist01
+    100416: RL_R_CalfTwist02
+    100418: RL_R_Clavicle
+    100420: RL_R_Elbow
+    100422: RL_R_Finger00
+    100424: RL_R_Finger01
+    100426: RL_R_Finger02
+    100428: RL_R_Finger0Nub
+    100430: RL_R_Finger10
+    100432: RL_R_Finger11
+    100434: RL_R_Finger12
+    100436: RL_R_Finger1Nub
+    100438: RL_R_Finger20
+    100440: RL_R_Finger21
+    100442: RL_R_Finger22
+    100444: RL_R_Finger2Nub
+    100446: RL_R_Finger30
+    100448: RL_R_Finger31
+    100450: RL_R_Finger32
+    100452: RL_R_Finger3Nub
+    100454: RL_R_Finger40
+    100456: RL_R_Finger41
+    100458: RL_R_Finger42
+    100460: RL_R_Finger4Nub
+    100462: RL_R_Foot
+    100464: RL_R_Foot01_Floor01
+    100466: RL_R_Foot01_Floor02
+    100468: RL_R_Foot01_Floor03
+    100470: RL_R_Foot01_Floor04
+    100472: RL_R_Foot01_Floor05
+    100474: RL_R_Foot01_Floor06
+    100476: RL_R_Forearm
+    100478: RL_R_ForearmTwist01
+    100480: RL_R_ForearmTwist02
+    100482: RL_R_Hand
+    100484: RL_R_Hand01_Floor01
+    100486: RL_R_Hand01_Floor02
+    100488: RL_R_Hand01_Floor03
+    100490: RL_R_Hand01_Floor04
+    100492: RL_R_Hand01_Floor05
+    100494: RL_R_Hand01_Floor06
+    100496: RL_R_Hand_Acc_Pivot
+    100498: RL_R_Hip0
+    100500: RL_R_Hip0Nub
+    100502: RL_R_Knee
+    100504: RL_R_Ribs
+    100506: RL_R_RibsNub
+    100508: RL_R_RibsTwist
+    100510: RL_R_Thigh
+    100512: RL_R_ThighTwist01
+    100514: RL_R_ThighTwist02
+    100516: RL_R_Toe
+    100518: RL_R_Toe0Nub
+    100520: RL_R_UpperArm
+    100522: RL_R_UpperArmTwist01
+    100524: RL_R_UpperArmTwist02
+    100526: RL_Spine01
+    100528: RL_Spine02
+    100530: RL_Waist
+    400000: Body
+    400002: Bone01
+    400004: Bone01 1
+    400006: Bone02
+    400008: Bone02 1
+    400010: Bone03
+    400012: Bone03 1
+    400014: Bone04
+    400016: Bone04 1
+    400018: Bone05
+    400020: Bone05 1
+    400022: Bone06
+    400024: Bone06 1
+    400026: Bone07
+    400028: Bone07 1
+    400030: Bone08
+    400032: Bone08 1
+    400034: Bone_Calvaria
+    400036: Bone_Connect
+    400038: Bone_Ear-L
+    400040: Bone_Ear-R
+    400042: Bone_Eye-L
+    400044: Bone_Eye-R
+    400046: Bone_Eyebrows-L
+    400048: Bone_Eyebrows-L01
+    400050: Bone_Eyebrows-L02
+    400052: Bone_Eyebrows-R
+    400054: Bone_Eyebrows-R01
+    400056: Bone_Eyebrows-R02
+    400058: Bone_Eyelid-L-Down
+    400060: Bone_Eyelid-L-Up
+    400062: Bone_Eyelid-R-Down
+    400064: Bone_Eyelid-R-Up
+    400066: Bone_Facial
+    400068: Bone_facial-L01
+    400070: Bone_facial-L02
+    400072: Bone_facial-R01
+    400074: Bone_facial-R02
+    400076: Bone_Jaw01
+    400078: Bone_Jaw02
+    400080: Bone_Lip-Down
+    400082: Bone_Lip-Up
+    400084: Bone_Nose-F
+    400086: Bone_Nose-M
+    400088: Bone_Supramaxilla
+    400090: Bone_Tongue01
+    400092: Bone_Tongue02
+    400094: Bone_Tongue03
+    400096: Bone_Tongue04
+    400098: CP_01
+    400100: CP_02
+    400102: CP_03
+    400104: CP_04
+    400106: CP_05
+    400108: CP_06
+    400110: CP_07
+    400112: CP_08
+    400114: CP_09
+    400116: CP_10
+    400118: CP_11
+    400120: CP_12
+    400122: CP_13
+    400124: CP_14
+    400126: CP_15
+    400128: CP_16
+    400130: CP_17
+    400132: CP_18
+    400134: CP_19
+    400136: CP_20
+    400138: CP_21
+    400140: CP_22
+    400142: CP_23
+    400144: CP_24
+    400146: CP_25
+    400148: CP_26
+    400150: CP_27
+    400152: CP_28
+    400154: CP_29
+    400156: CP_30
+    400158: CP_31
+    400160: CP_32
+    400162: CP_33
+    400164: CP_34
+    400166: CP_35
+    400168: CP_36
+    400170: CP_37
+    400172: CP_38
+    400174: CP_39
+    400176: CP_40
+    400178: CP_41
+    400180: CP_42
+    400182: CP_43
+    400184: CP_44
+    400186: CP_45
+    400188: CP_46
+    400190: CP_47
+    400192: CP_48
+    400194: CP_49
+    400196: CP_50
+    400198: CP_51
+    400200: CP_52
+    400202: CP_53
+    400204: CP_54
+    400206: CP_55
+    400208: CP_56
+    400210: CP_57
+    400212: CP_58
+    400214: CP_59
+    400216: CP_60
+    400218: CP_61
+    400220: CP_62
+    400222: CP_63
+    400224: CP_64
+    400226: CP_65
+    400228: CP_66
+    400230: CP_67
+    400232: CP_68
+    400234: CP_69
+    400236: Dummy_R
+    400238: Dummy_R 1
+    400240: Eye_L
+    400242: Eye_R
+    400244: Eyeball
+    400246: Eyeball 1
+    400248: Eyelib_L
+    400250: Eyelib_R
+    400252: Eyelid
+    400254: Eyelid 1
+    400256: //RootNode
+    400258: Part_DownTeeth
+    400260: Part_Eyewinker
+    400262: Part_L_Eye
+    400264: Part_R_Eye
+    400266: Part_Tongue
+    400268: Part_UpperTeeth
+    400270: RL_Head
+    400272: RL_HeadNub
+    400274: RL_Hips
+    400276: RL_L_Abdominal
+    400278: RL_L_AbdominalNub
+    400280: RL_L_Breast
+    400282: RL_L_BreastNub
+    400284: RL_L_Calf
+    400286: RL_L_CalfTwist01
+    400288: RL_L_CalfTwist02
+    400290: RL_L_Clavicle
+    400292: RL_L_Elbow
+    400294: RL_L_Finger00
+    400296: RL_L_Finger01
+    400298: RL_L_Finger02
+    400300: RL_L_Finger0Nub
+    400302: RL_L_Finger10
+    400304: RL_L_Finger11
+    400306: RL_L_Finger12
+    400308: RL_L_Finger1Nub
+    400310: RL_L_Finger20
+    400312: RL_L_Finger21
+    400314: RL_L_Finger22
+    400316: RL_L_Finger2Nub
+    400318: RL_L_Finger30
+    400320: RL_L_Finger31
+    400322: RL_L_Finger32
+    400324: RL_L_Finger3Nub
+    400326: RL_L_Finger40
+    400328: RL_L_Finger41
+    400330: RL_L_Finger42
+    400332: RL_L_Finger4Nub
+    400334: RL_L_Foot
+    400336: RL_L_Foot01_Floor01
+    400338: RL_L_Foot01_Floor02
+    400340: RL_L_Foot01_Floor03
+    400342: RL_L_Foot01_Floor04
+    400344: RL_L_Foot01_Floor05
+    400346: RL_L_Foot01_Floor06
+    400348: RL_L_Forearm
+    400350: RL_L_ForearmTwist01
+    400352: RL_L_ForearmTwist02
+    400354: RL_L_Hand
+    400356: RL_L_Hand01_Floor01
+    400358: RL_L_Hand01_Floor02
+    400360: RL_L_Hand01_Floor03
+    400362: RL_L_Hand01_Floor04
+    400364: RL_L_Hand01_Floor05
+    400366: RL_L_Hand01_Floor06
+    400368: RL_L_Hand_Acc_Pivot
+    400370: RL_L_Hip0
+    400372: RL_L_Hip0Nub
+    400374: RL_L_Knee
+    400376: RL_L_Ribs
+    400378: RL_L_RibsNub
+    400380: RL_L_RibsTwist
+    400382: RL_L_Thigh
+    400384: RL_L_ThighTwist01
+    400386: RL_L_ThighTwist02
+    400388: RL_L_Toe
+    400390: RL_L_Toe0Nub
+    400392: RL_L_UpperArm
+    400394: RL_L_UpperArmTwist01
+    400396: RL_L_UpperArmTwist02
+    400398: RL_Neck
+    400400: RL_NeckTwist01
+    400402: RL_Pelvis
+    400404: RL_R_Abdominal
+    400406: RL_R_AbdominalNub
+    400408: RL_R_Breast
+    400410: RL_R_BreastNub
+    400412: RL_R_Calf
+    400414: RL_R_CalfTwist01
+    400416: RL_R_CalfTwist02
+    400418: RL_R_Clavicle
+    400420: RL_R_Elbow
+    400422: RL_R_Finger00
+    400424: RL_R_Finger01
+    400426: RL_R_Finger02
+    400428: RL_R_Finger0Nub
+    400430: RL_R_Finger10
+    400432: RL_R_Finger11
+    400434: RL_R_Finger12
+    400436: RL_R_Finger1Nub
+    400438: RL_R_Finger20
+    400440: RL_R_Finger21
+    400442: RL_R_Finger22
+    400444: RL_R_Finger2Nub
+    400446: RL_R_Finger30
+    400448: RL_R_Finger31
+    400450: RL_R_Finger32
+    400452: RL_R_Finger3Nub
+    400454: RL_R_Finger40
+    400456: RL_R_Finger41
+    400458: RL_R_Finger42
+    400460: RL_R_Finger4Nub
+    400462: RL_R_Foot
+    400464: RL_R_Foot01_Floor01
+    400466: RL_R_Foot01_Floor02
+    400468: RL_R_Foot01_Floor03
+    400470: RL_R_Foot01_Floor04
+    400472: RL_R_Foot01_Floor05
+    400474: RL_R_Foot01_Floor06
+    400476: RL_R_Forearm
+    400478: RL_R_ForearmTwist01
+    400480: RL_R_ForearmTwist02
+    400482: RL_R_Hand
+    400484: RL_R_Hand01_Floor01
+    400486: RL_R_Hand01_Floor02
+    400488: RL_R_Hand01_Floor03
+    400490: RL_R_Hand01_Floor04
+    400492: RL_R_Hand01_Floor05
+    400494: RL_R_Hand01_Floor06
+    400496: RL_R_Hand_Acc_Pivot
+    400498: RL_R_Hip0
+    400500: RL_R_Hip0Nub
+    400502: RL_R_Knee
+    400504: RL_R_Ribs
+    400506: RL_R_RibsNub
+    400508: RL_R_RibsTwist
+    400510: RL_R_Thigh
+    400512: RL_R_ThighTwist01
+    400514: RL_R_ThighTwist02
+    400516: RL_R_Toe
+    400518: RL_R_Toe0Nub
+    400520: RL_R_UpperArm
+    400522: RL_R_UpperArmTwist01
+    400524: RL_R_UpperArmTwist02
+    400526: RL_Spine01
+    400528: RL_Spine02
+    400530: RL_Waist
+    2300000: Eye_L
+    2300002: Eye_R
+    2300004: Part_DownTeeth
+    2300006: Part_L_Eye
+    2300008: Part_R_Eye
+    2300010: Part_UpperTeeth
+    3300000: Eye_L
+    3300002: Eye_R
+    3300004: Part_DownTeeth
+    3300006: Part_L_Eye
+    3300008: Part_R_Eye
+    3300010: Part_UpperTeeth
+    4300000: Body
+    4300002: Part_Eyewinker
+    4300004: Part_Tongue
+    4300006: Part_DownTeeth
+    4300008: Part_R_Eye
+    4300010: Part_L_Eye
+    4300012: Part_UpperTeeth
+    4300014: Eye_R
+    4300016: Eyelib_R
+    4300018: Eyelib_L
+    4300020: Eye_L
+    7400000: Walk_Loop
+    11100000: //RootNode
+    13700000: Body
+    13700002: Eyelib_L
+    13700004: Eyelib_R
+    13700006: Part_Eyewinker
+    13700008: Part_Tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk_Loop
+      takeName: Walk_Loop
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Part_Eyewinker
+        weight: 1
+      - path: RL_Hips
+        weight: 1
+      - path: RL_Hips/RL_Pelvis
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_CalfTwist01
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_CalfTwist01/RL_L_CalfTwist02
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Foot01_Floor02
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Foot01_Floor03
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Foot01_Floor05
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Foot01_Floor06
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Toe
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Toe/RL_L_Foot01_Floor01
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Toe/RL_L_Foot01_Floor04
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Foot/RL_L_Toe/RL_L_Toe0Nub
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Calf/RL_L_Knee
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Hip0
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_Hip0/RL_L_Hip0Nub
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_ThighTwist01
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_L_Thigh/RL_L_ThighTwist01/RL_L_ThighTwist02
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_CalfTwist01
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_CalfTwist01/RL_R_CalfTwist02
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Foot01_Floor02
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Foot01_Floor03
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Foot01_Floor05
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Foot01_Floor06
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Toe
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Toe/RL_R_Foot01_Floor01
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Toe/RL_R_Foot01_Floor04
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Foot/RL_R_Toe/RL_R_Toe0Nub
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Calf/RL_R_Knee
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Hip0
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_Hip0/RL_R_Hip0Nub
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_ThighTwist01
+        weight: 1
+      - path: RL_Hips/RL_Pelvis/RL_R_Thigh/RL_R_ThighTwist01/RL_R_ThighTwist02
+        weight: 1
+      - path: RL_Hips/RL_Waist
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_L_Abdominal
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_L_Abdominal/RL_L_AbdominalNub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_R_Abdominal
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_R_Abdominal/RL_R_AbdominalNub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Elbow
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_ForearmTwist01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_ForearmTwist01/RL_L_ForearmTwist02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger00
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger00/RL_L_Finger01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger00/RL_L_Finger01/RL_L_Finger02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger00/RL_L_Finger01/RL_L_Finger02/RL_L_Finger0Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger10
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger10/RL_L_Finger11
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger10/RL_L_Finger11/RL_L_Finger12
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger10/RL_L_Finger11/RL_L_Finger12/RL_L_Finger1Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger20
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger20/RL_L_Finger21
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger20/RL_L_Finger21/RL_L_Finger22
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger20/RL_L_Finger21/RL_L_Finger22/RL_L_Finger2Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger30
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger30/RL_L_Finger31
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger30/RL_L_Finger31/RL_L_Finger32
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger30/RL_L_Finger31/RL_L_Finger32/RL_L_Finger3Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger40
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger40/RL_L_Finger41
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger40/RL_L_Finger41/RL_L_Finger42
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Finger40/RL_L_Finger41/RL_L_Finger42/RL_L_Finger4Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand01_Floor01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand01_Floor02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand01_Floor03
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand01_Floor04
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand01_Floor05
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand01_Floor06
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_Forearm/RL_L_Hand/RL_L_Hand_Acc_Pivot
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_UpperArmTwist01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Clavicle/RL_L_UpperArm/RL_L_UpperArmTwist01/RL_L_UpperArmTwist02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Ribs
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Ribs/RL_L_RibsNub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Ribs/RL_L_RibsTwist
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Ribs/RL_L_RibsTwist/RL_L_Breast
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_L_Ribs/RL_L_RibsTwist/RL_L_Breast/RL_L_BreastNub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria/CP_14
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria/CP_15
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria/CP_16
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria/CP_17
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria/CP_50
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Calvaria/CP_51
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-L
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-L/CP_41
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-L/CP_42
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-L/CP_43
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-L/CP_44
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-R
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-R/CP_45
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-R/CP_46
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-R/CP_47
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Ear-R/CP_48
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyebrows-L
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyebrows-L/CP_53
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyebrows-L/CP_54
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyebrows-L/CP_55
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Down
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Down/Bone_Eyebrows-L02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Down/CP_33
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Down/CP_34
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Up
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Up/Bone_Eyebrows-L01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Up/CP_30
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Bone_Eyelid-L-Up/CP_31
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/CP_29
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/CP_32
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-L/Part_L_Eye
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyebrows-R
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyebrows-R/CP_56
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyebrows-R/CP_57
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyebrows-R/CP_58
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Down
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Down/Bone_Eyebrows-R02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Down/CP_39
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Down/CP_40
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Up
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Up/Bone_Eyebrows-R01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Up/CP_36
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Bone_Eyelid-R-Up/CP_37
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/CP_35
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/CP_38
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Eye-R/Part_R_Eye
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-L01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-L01/CP_59
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-L01/CP_64
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-L01/CP_65
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-L02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-L02/CP_63
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-R01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-R01/CP_60
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-R01/CP_66
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-R01/CP_67
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-R02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_facial-R02/CP_62
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Jaw02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Jaw02/CP_02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Jaw02/CP_03
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_04
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_05
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_06
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_23
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_24
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_27
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Lip-Down/CP_28
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Tongue01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Tongue01/Bone_Tongue02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Tongue01/Bone_Tongue02/Bone_Tongue03
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Bone_Tongue01/Bone_Tongue02/Bone_Tongue03/Bone_Tongue04
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/CP_49
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/CP_52
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Part_DownTeeth
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Jaw01/Part_Tongue
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F/Bone_Nose-M
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F/Bone_Nose-M/CP_11
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F/CP_09
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F/CP_10
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F/CP_19
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Nose-F/CP_20
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_07
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_08
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_21
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_22
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_25
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_26
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_68
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Bone_Lip-Up/CP_69
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/Bone_Supramaxilla/Part_UpperTeeth
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/CP_01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/CP_12
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/CP_13
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/CP_18
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Bone_Connect/Bone_Facial/CP_61
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyeball
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyeball/Eye_R
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyeball
+          1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyeball
+          1/Eye_L
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone01 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone03 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone04
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone05 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone06 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone07
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Dummy_R
+          1/Bone08
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid/Eyelib_R
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone02 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone03
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone04 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone05
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone06
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone07 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Dummy_R/Bone08 1
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/Eyelid
+          1/Eyelib_L
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_Neck/RL_NeckTwist01/RL_Head/RL_HeadNub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Elbow
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_ForearmTwist01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_ForearmTwist01/RL_R_ForearmTwist02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger00
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger00/RL_R_Finger01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger00/RL_R_Finger01/RL_R_Finger02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger00/RL_R_Finger01/RL_R_Finger02/RL_R_Finger0Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger10
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger10/RL_R_Finger11
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger10/RL_R_Finger11/RL_R_Finger12
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger10/RL_R_Finger11/RL_R_Finger12/RL_R_Finger1Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger20
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger20/RL_R_Finger21
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger20/RL_R_Finger21/RL_R_Finger22
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger20/RL_R_Finger21/RL_R_Finger22/RL_R_Finger2Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger30
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger30/RL_R_Finger31
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger30/RL_R_Finger31/RL_R_Finger32
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger30/RL_R_Finger31/RL_R_Finger32/RL_R_Finger3Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger40
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger40/RL_R_Finger41
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger40/RL_R_Finger41/RL_R_Finger42
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Finger40/RL_R_Finger41/RL_R_Finger42/RL_R_Finger4Nub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand01_Floor01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand01_Floor02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand01_Floor03
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand01_Floor04
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand01_Floor05
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand01_Floor06
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_Forearm/RL_R_Hand/RL_R_Hand_Acc_Pivot
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_UpperArmTwist01
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Clavicle/RL_R_UpperArm/RL_R_UpperArmTwist01/RL_R_UpperArmTwist02
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Ribs
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Ribs/RL_R_RibsNub
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Ribs/RL_R_RibsTwist
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Ribs/RL_R_RibsTwist/RL_R_Breast
+        weight: 1
+      - path: RL_Hips/RL_Waist/RL_Spine01/RL_Spine02/RL_R_Ribs/RL_R_RibsTwist/RL_R_Breast/RL_R_BreastNub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
